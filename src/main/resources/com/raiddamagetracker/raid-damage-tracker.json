@@ -1,0 +1,7 @@
+{
+  "displayName": "Raid Damage Tracker",
+  "author": "You",
+  "description": "Tracks per-player damage on each monster in CoX, ToB, and ToA raids, with a DPS counter.",
+  "tags": ["raid", "damage", "tracker", "dps", "cox", "tob", "toa"],
+  "hasRedirect": false
+}
